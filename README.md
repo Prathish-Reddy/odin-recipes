@@ -1,1 +1,1 @@
-# odin-recipes
+# prathish-recipes
